@@ -1,18 +1,13 @@
-<h1 align="left">HI, 👋 I'M A PURRGRAMMER</h1>
+<h1 align="left">HI, 👋 I'M A PURRGRAMMER (This file is under development!)</h1>
 
-<br>
 
 <p align="left">
-  <a href="PASTE_LINK_HERE">
-    <img src="PASTE_IMAGE_URL_HERE" alt="Terminal 1" width="100%" />
-  </a>
+    <img src="https://raw.githubusercontent.com/itssmaranika13/itssmaranika13/main/terminal%201.png" alt="Terminal 1" width="100%" />
 </p>
 
-<br>
 <hr>
-<br>
 
-<h2>SYSTEM INFO</h2>
+<h1>SYSTEM INFO</h1>
 
 <p>
 Build : 11.1.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Version : 15.8.25&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Status : Online
@@ -26,13 +21,11 @@ Build : 11.1.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Version : 15.8.25&
 Years&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Months&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Days&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hours&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minutes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds
 </p>
 
-<br>
 <hr>
-<br>
 
-<h2>WHAT I KNOW</h2>
+<h1>WHAT I KNOW</h1>
 
-<h4>Languages :</h4>
+<h3>Languages :</h3>
 
 <p>
   <img src="PASTE_IMAGE_URL_HERE" height="50" alt="HTML5" />
@@ -46,7 +39,7 @@ Years&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Months&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
   <img src="PASTE_IMAGE_URL_HERE" height="50" alt="Markdown" />
 </p>
 
-<h4>Tools :</h4>
+<h3>Tools :</h3>
 
 <p>
   <img src="PASTE_IMAGE_URL_HERE" height="50" alt="Tool 1" />
@@ -56,9 +49,9 @@ Years&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Months&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
   <img src="PASTE_IMAGE_URL_HERE" height="50" alt="VS Code" />
 </p>
 
-<br>
+
 <hr>
-<br>
+
 
 <h2>LET US CONNECT</h2>
 
@@ -70,7 +63,7 @@ Years&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Months&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
   <a href="PASTE_LINK_HERE"><img src="PASTE_IMAGE_URL_HERE" height="50" alt="Gmail" /></a>
 </p>
 
-<p>I'm also on :</p>
+<h3>I'm also on :</h3>
 
 <p>
   <a href="PASTE_LINK_HERE"><img src="PASTE_IMAGE_URL_HERE" height="50" alt="Platform 1" /></a>
@@ -96,9 +89,7 @@ Years&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Months&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
   <a href="PASTE_LINK_HERE"><img src="PASTE_IMAGE_URL_HERE" height="50" alt="X" /></a>
 </p>
 
-<br>
 <hr>
-<br>
 
 <p align="left">
   <a href="PASTE_LINK_HERE">
