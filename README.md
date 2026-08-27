@@ -28,25 +28,27 @@ Years&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Months&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 <h3>Languages :</h3>
 
 <p>
-  <img src="PASTE_IMAGE_URL_HERE" height="50" alt="HTML5" />
+  <img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/HTML.png" height="50" alt="HTML5" />
   &nbsp;&nbsp;
-  <img src="PASTE_IMAGE_URL_HERE" height="50" alt="JS" />
+  <img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/JS.png" height="50" alt="JS" />
   &nbsp;&nbsp;
-  <img src="PASTE_IMAGE_URL_HERE" height="50" alt="CSS3" />
+  <img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/CSS.png" height="50" alt="CSS3" />
   &nbsp;&nbsp;
-  <img src="PASTE_IMAGE_URL_HERE" height="50" alt="Python" />
+  <img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/py.png" height="50" alt="Python" />
   &nbsp;&nbsp;
-  <img src="PASTE_IMAGE_URL_HERE" height="50" alt="Markdown" />
+  <img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/md.png" height="50" alt="Markdown" />
 </p>
 
 <h3>Tools :</h3>
 
 <p>
-  <img src="PASTE_IMAGE_URL_HERE" height="50" alt="Tool 1" />
+  <img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/figma.png" height="50" alt="Figma" />
   &nbsp;&nbsp;
-  <img src="PASTE_IMAGE_URL_HERE" height="50" alt="Tool 2" />
+  <img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/obs.png" height="50" alt="Obsidian" />
   &nbsp;&nbsp;
-  <img src="PASTE_IMAGE_URL_HERE" height="50" alt="VS Code" />
+  <img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/vscode.png" height="50" alt="VS Code" />
+&nbsp;&nbsp;
+<img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/kiro.png" height="50" alt="Kiro" />
 </p>
 
 
@@ -92,7 +94,5 @@ Years&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Months&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 <hr>
 
 <p align="left">
-  <a href="PASTE_LINK_HERE">
-    <img src="PASTE_IMAGE_URL_HERE" alt="Terminal 2" width="100%" />
-  </a>
+    <img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/Group%2014.png" alt="Terminal 2" width="100%" />
 </p>
