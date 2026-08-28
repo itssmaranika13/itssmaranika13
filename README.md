@@ -2,7 +2,7 @@
 
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/itssmaranika13/itssmaranika13/main/terminal%201.png" alt="Terminal 1" width="100%" />
+    <img src="https://raw.githubusercontent.com/itssmaranika13/itssmaranika13/main/terminal%20.png" alt="Terminal 1" width="100%" />
 </p>
 
 <hr>
@@ -94,5 +94,5 @@ Years&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Months&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 <hr>
 
 <p align="left">
-    <img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/Group%2014.png" alt="Terminal 2" width="100%" />
+    <img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/Group%201.png" alt="Terminal 2" width="100%" />
 </p>
