@@ -7,19 +7,7 @@
 
 <hr>
 
-<h1>SYSTEM INFO</h1>
-
-<p>
-Build : 11.1.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Version : 15.8.25&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Status : Online
-</p>
-
-<p>Uptime: [counter]</p>
-
-<h1>15&nbsp;:&nbsp;08&nbsp;:&nbsp;25&nbsp;:&nbsp;23&nbsp;:&nbsp;05&nbsp;:&nbsp;56</h1>
-
-<p>
-Years&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Months&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Days&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hours&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minutes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds
-</p>
+<img src="https://uptime-widget.vercel.app/api/uptime" alt="System Info" />
 
 <hr>
 
