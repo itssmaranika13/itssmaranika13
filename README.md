@@ -50,7 +50,7 @@
   &nbsp;&nbsp;
   <a href="https://discord.com/users/1537495518635106408"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/discord.png" height="50" alt="Discord" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:smaranika.ray013@gmail.com"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/gmail.png" height="40" alt="Gmail" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=smaranika.ray013@gmail.com"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/gmail.png" height="40" alt="Gmail" /></a>
   &nbsp;&nbsp;
   <a href="https://t.me/smaranika13"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/telegram.png" height="40" alt="Telegram" /></a>
 </p>
