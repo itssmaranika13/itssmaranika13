@@ -1,4 +1,4 @@
-<h1 align="left">HI, 👋 I'M A PURRGRAMMER (This file is under development!)</h1>
+<h1 align="left">HI, I'M A PURRGRAMMER 👋🏻🎀</h1>
 
 
 <p align="left">
@@ -46,37 +46,33 @@
 <h2>LET US CONNECT</h2>
 
 <p>
-  <a href="PASTE_LINK_HERE"><img src="PASTE_IMAGE_URL_HERE" height="50" alt="LinkedIn" /></a>
+  <a href="PASTE_LINK_HERE"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/Linkedin.png" height="50" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
-  <a href="PASTE_LINK_HERE"><img src="PASTE_IMAGE_URL_HERE" height="50" alt="Discord" /></a>
+  <a href="PASTE_LINK_HERE"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/discord.png" height="50" alt="Discord" /></a>
   &nbsp;&nbsp;
-  <a href="PASTE_LINK_HERE"><img src="PASTE_IMAGE_URL_HERE" height="50" alt="Gmail" /></a>
+  <a href="PASTE_LINK_HERE"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/gmail.png" height="40" alt="Gmail" /></a>
+  &nbsp;&nbsp;
+  <a href="PASTE_LINK_HERE"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/telegram.png" height="40" alt="Telegram" /></a>
 </p>
 
 <h3>I'm also on :</h3>
 
 <p>
-  <a href="PASTE_LINK_HERE"><img src="PASTE_IMAGE_URL_HERE" height="50" alt="Platform 1" /></a>
+  <a href="PASTE_LINK_HERE"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/leetcode.png" height="50" alt="Leetcode" /></a>
   &nbsp;&nbsp;
-  <a href="PASTE_LINK_HERE"><img src="PASTE_IMAGE_URL_HERE" height="50" alt="picoCTF" /></a>
+  <a href="PASTE_LINK_HERE"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/pico-ctf.png" height="50" alt="picoCTF" /></a>
   &nbsp;&nbsp;
-  <a href="PASTE_LINK_HERE"><img src="PASTE_IMAGE_URL_HERE" height="50" alt="Platform 3" /></a>
+  <a href="PASTE_LINK_HERE"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/hacklido.png" height="50" alt="Hacklido" /></a>
   &nbsp;&nbsp;
-  <a href="PASTE_LINK_HERE"><img src="PASTE_IMAGE_URL_HERE" height="50" alt="Pinterest" /></a>
-  &nbsp;&nbsp;
-  <a href="PASTE_LINK_HERE"><img src="PASTE_IMAGE_URL_HERE" height="50" alt="Quora" /></a>
+  <a href="PASTE_LINK_HERE"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/Quora.png" height="50" alt="Quora" /></a>
 </p>
 
 <p>
-  <a href="PASTE_LINK_HERE"><img src="PASTE_IMAGE_URL_HERE" height="50" alt="Reddit" /></a>
+  <a href="PASTE_LINK_HERE"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/reddit.png" height="50" alt="Reddit" /></a>
   &nbsp;&nbsp;
-  <a href="PASTE_LINK_HERE"><img src="PASTE_IMAGE_URL_HERE" height="50" alt="Bluesky" /></a>
+  <a href="PASTE_LINK_HERE"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/Linktree.png" height="50" alt="Linktree" /></a>
   &nbsp;&nbsp;
-  <a href="PASTE_LINK_HERE"><img src="PASTE_IMAGE_URL_HERE" height="50" alt="Spotify" /></a>
-  &nbsp;&nbsp;
-  <a href="PASTE_LINK_HERE"><img src="PASTE_IMAGE_URL_HERE" height="50" alt="Platform 9" /></a>
-  &nbsp;&nbsp;
-  <a href="PASTE_LINK_HERE"><img src="PASTE_IMAGE_URL_HERE" height="50" alt="X" /></a>
+  <a href="PASTE_LINK_HERE"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/X.png" height="40" alt="X" /></a>
 </p>
 
 <hr>
