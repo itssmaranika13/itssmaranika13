@@ -46,33 +46,31 @@
 <h2>LET US CONNECT</h2>
 
 <p>
-  <a href="PASTE_LINK_HERE"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/Linkedin.png" height="50" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/smaranikaray/"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/Linkedin.png" height="50" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
-  <a href="PASTE_LINK_HERE"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/discord.png" height="50" alt="Discord" /></a>
+  <a href="https://discord.com/users/1537495518635106408"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/discord.png" height="50" alt="Discord" /></a>
   &nbsp;&nbsp;
-  <a href="PASTE_LINK_HERE"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/gmail.png" height="40" alt="Gmail" /></a>
+  <a href="mailto:smaranika.ray013@gmail.com"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/gmail.png" height="40" alt="Gmail" /></a>
   &nbsp;&nbsp;
-  <a href="PASTE_LINK_HERE"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/telegram.png" height="40" alt="Telegram" /></a>
+  <a href="https://t.me/smaranika13"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/telegram.png" height="40" alt="Telegram" /></a>
 </p>
 
 <h3>I'm also on :</h3>
 
 <p>
-  <a href="PASTE_LINK_HERE"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/leetcode.png" height="50" alt="Leetcode" /></a>
+  <a href="https://leetcode.com/u/Smaranika_Ray/"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/leetcode.png" height="50" alt="Leetcode" /></a>
   &nbsp;&nbsp;
-  <a href="PASTE_LINK_HERE"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/pico-ctf.png" height="50" alt="picoCTF" /></a>
+  <a href="https://learn.cylabacademy.org/users/SmaranikaRay"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/pico-ctf.png" height="50" alt="picoCTF" /></a>
   &nbsp;&nbsp;
-  <a href="PASTE_LINK_HERE"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/hacklido.png" height="50" alt="Hacklido" /></a>
-  &nbsp;&nbsp;
-  <a href="PASTE_LINK_HERE"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/Quora.png" height="50" alt="Quora" /></a>
+  <a href="https://hacklido.com/u/Smaranika-Ray"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/hacklido.png" height="50" alt="Hacklido" /></a>
 </p>
 
 <p>
-  <a href="PASTE_LINK_HERE"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/reddit.png" height="50" alt="Reddit" /></a>
+  <a href="https://www.reddit.com/user/smaranika13/"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/reddit.png" height="50" alt="Reddit" /></a>
   &nbsp;&nbsp;
-  <a href="PASTE_LINK_HERE"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/Linktree.png" height="50" alt="Linktree" /></a>
+  <a href="https://linktr.ee/smaranika.ray013"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/Linktree.png" height="50" alt="Linktree" /></a>
   &nbsp;&nbsp;
-  <a href="PASTE_LINK_HERE"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/X.png" height="40" alt="X" /></a>
+  <a href="https://x.com/Smaranika013"><img src="https://github.com/itssmaranika13/itssmaranika13/blob/main/X.png" height="40" alt="X" /></a>
 </p>
 
 <hr>
